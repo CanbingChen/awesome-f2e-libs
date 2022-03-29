@@ -135,6 +135,7 @@
 * [**fastclick**](https://github.com/ftlabs/fastclick)
 * [**date-fns**](https://github.com/date-fns/date-fns) - 时间处理。
 
+
 ## 数据流
 
 * [**dva**](https://github.com/dvajs/dva) - 我写的数据流，基于 redux。
@@ -207,6 +208,8 @@
 * [**just**](https://github.com/Microsoft/just) - 微软出的任务管理器。
 * [**tern**](https://github.com/ternjs/tern) - 代码分析器，为不少编辑器服务。
 * [**lightproxy**](https://github.com/alibaba/lightproxy) - 底层协议代理工具，跨平台。
+* [**glob-all**](https://github.com/isaacs/node-glob) - 文件查找。
+* [**util.promisify**](https://nodejs.org/dist/latest-v8.x/docs/api/util.html) - callback转换为promise方式。
 
 ## 编辑器
 
